@@ -31,7 +31,7 @@ In this task, you will access the starter solution and update the files in it.
 
    ![](media/sss8.png)
 
-1. If prompted about how to open the file, select **Visual Studio 2019**, and then select **OK**.
+1. If prompted about how to open the file, select **Visual Studio 2022**, and then select **OK**.
 
    ![Visual Studio 2019 is highlighted in the How do you want to open this file? dialog.](media/solution-file-open-with.png "Visual Studio 2019")
 
