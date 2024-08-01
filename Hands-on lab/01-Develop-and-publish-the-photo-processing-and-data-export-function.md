@@ -259,5 +259,3 @@ In this task, you will publish the Function App from the starter project in Visu
 In this exercise, you updated code file, published the functions to Azure, and added an event grid trigger to initiate a trigger when images are published to blob storage.
 
 ## You have successfully completed the Lab!
-
-
